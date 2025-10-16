@@ -1,14 +1,14 @@
 # head-hunter
-Download my autoexec.cfg file and put it into x:\(root)\game\csgo\cfg
+download my autoexec.cfg file and put it into x:\(root)\game\csgo\cfg
 
 
-***Crosshair:***                   
+***crosshair:***                   
 CSGO-k5VsD-7xkk4-Q9zL6-oEVfM-GjYbD
 
 
-***Command line:***                
+***command line:***                
 -console -nojoy -freq 144 -high +exec autoexec.cfg -allow_third_party_software
 
 
-***Sensitivity:***                 
+***sensitivity:***                 
 1.60 (100% zoom), 800dpi, m_yaw "0.0165"
