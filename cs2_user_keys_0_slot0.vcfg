@@ -1,0 +1,33 @@
+"config"
+{
+	"bindings"
+	{
+		"F9"		"toggleconsole"
+		"a"		"+a"
+		"d"		"+d"
+		"q"		"+switchw"
+		"s"		"+s"
+		"w"		"+w"
+		"SHIFT"		"+wlk"
+		"CTRL"		"+crh"
+		"MOUSE1"		"+sht"
+		"MWHEELDOWN"		"+j"
+		"c"		"+crh"
+		"4"		"slot5"
+		"5"		"slot11"
+		"6"		"slot6"
+		"7"		"slot7"
+		"8"		"slot8"
+		"x"		"slot4"
+		"SPACE"		"+jump"
+		"MWHEELUP"		"+j"
+		"h"		"+cl_show_team_equipment"
+		"z"		"clutch_mode_toggle"
+		"9"		"slot9"
+		"ALT"		"+jumpthrow"
+	}
+	"analogbindings"
+	{
+		"MOUSE_X"		"yaw"
+	}
+}
