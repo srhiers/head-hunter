@@ -1,9 +1,9 @@
 # head-hunter
-Download my autoexec file and put it into x:\...\root\game\csgo\cfg
+Download my autoexec.cfg file and put it into x:\(root)\game\csgo\cfg
 
 
 ***Crosshair:***                   
-CSGO-2dNbv-ipqrS-nwn6m-PhpEE-rzsyM
+CSGO-k5VsD-7xkk4-Q9zL6-oEVfM-GjYbD
 
 
 ***Command line:***                
@@ -11,4 +11,4 @@ CSGO-2dNbv-ipqrS-nwn6m-PhpEE-rzsyM
 
 
 ***Sensitivity:***                 
-1.40 (90% zoom), 800dpi, m_yaw "0.0165"
+1.60 (100% zoom), 800dpi, m_yaw "0.0165"
